@@ -17,6 +17,7 @@ void main()
 		cout << endl;
 		if (size % 2 == 0 and i%2==0)
 		{
+
 			counter = 0;
 		}
 		else if (size % 2 == 0)
